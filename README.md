@@ -1,19 +1,11 @@
 # TINY PENDANT #
 
-Tiny pendant is little beautiful project which you can wear and shine.
+Tiny pendant is little beautiful project you can wear and shine.
 
-### What is this repository for? ###
+The reason this project was to give an introduction to PCB Design to some newcomers in the area. Therefore, it was a fun hands-on lab.
 
-* Quick summary
+![PCB image](https://github.com/jpnbino/tiny_pendant/blob/master/pcb.JPG)
 
-Contains source files and generated files from IDE Altium Designer.
+## Version
 
-* Version
-
-V1I1 - First version
-
-
-### Who do I talk to? ###
-
-* Repo owner or admin
-jpnogg@gmail.com
+    v1.0 - Initial version

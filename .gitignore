@@ -1,0 +1,22 @@
+#Git ignore files
+*.ini
+#Altium generated files
+*.log
+*.LOG
+*.htm
+*.zip
+*.apr
+*.EXTREP
+*.REP
+*.RUL
+*.APR_LIB
+*.html
+*.drc
+*.REPPreview
+*.DRR
+*.LDP
+*.LDPPreview
+Status Report.Txt
+*.txtPreview
+__Previews/
+History/
