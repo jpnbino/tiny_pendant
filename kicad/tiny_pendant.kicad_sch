@@ -1,0 +1,443 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "f6e5327d-7d48-5ed3-ac3e-6026b2a80656")
+	(paper "A3")
+	(title_block
+		(title "TINY PENDANT")
+		(date "2017-06-01")
+		(rev "V1I1")
+		(company "Ancient Egypt Ltda")
+		(comment 1 "Pyramides of Giza, 777")
+		(comment 2 "Cairo")
+		(comment 3 "www.ancientegypt.com.eg")
+	)
+	(lib_symbols)
+	(polyline
+		(pts
+			(xy 203.2 93.98) (xy 25.4 93.98) (xy 25.4 284.48) (xy 203.2 284.48) (xy 203.2 93.98)
+		)
+		(stroke
+			(width 0.1524)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid "2f5d78f9-98fd-5f5b-bae8-552715512a4e")
+	)
+	(text "Titulo menor"
+		(exclude_from_sim no)
+		(at 30.48 236.22 0)
+		(effects
+			(font
+				(size 4.95 4.95)
+				(italic yes)
+			)
+			(justify left bottom)
+		)
+		(uuid "2e96d1f8-04fd-5c05-a407-b23be2fb56d2")
+	)
+	(text "Perifericos e/ou grupo de componentes"
+		(exclude_from_sim no)
+		(at 30.48 226.06 0)
+		(effects
+			(font
+				(size 5 5)
+				(italic yes)
+			)
+			(justify left bottom)
+		)
+		(uuid "3d7fa175-f1ce-5fd0-ad75-cefecea25af4")
+	)
+	(text "Set Project Parameters"
+		(exclude_from_sim no)
+		(at 33.02 114.3 0)
+		(effects
+			(font
+				(size 2.67 2.67)
+			)
+			(justify left bottom)
+		)
+		(uuid "8a40ba13-2161-5d40-8d9f-dcb3f2d43017")
+	)
+	(text "TITULO DA PAGINA"
+		(exclude_from_sim no)
+		(at 30.48 215.9 0)
+		(effects
+			(font
+				(size 5 5)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+		(uuid "8ac1bbe2-5d49-5f59-b259-79fea27f6a27")
+	)
+	(text "PRELIMINAR - Antes da revisão final."
+		(exclude_from_sim no)
+		(at 30.48 264.16 0)
+		(effects
+			(font
+				(size 3.81 3.81)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+		(uuid "a7d4c1ad-540b-5f51-824b-3094f04fd84c")
+	)
+	(text "RASCUNHO - Esquema elétrico com poucos detalhes."
+		(exclude_from_sim no)
+		(at 30.48 256.54 0)
+		(effects
+			(font
+				(size 3.81 3.81)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+		(uuid "b5b7284c-53dc-5942-95a0-c06d2a3a7e90")
+	)
+	(text "REVISADO - Não há erros nesse estágio. O esquema foi revisado"
+		(exclude_from_sim no)
+		(at 30.48 271.78 0)
+		(effects
+			(font
+				(size 3.81 3.81)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+		(uuid "bd098863-cda9-5321-b0fb-d5fe3c3818a5")
+	)
+	(text "Marcar componentes não montados com"
+		(exclude_from_sim no)
+		(at 33.02 144.78 0)
+		(effects
+			(font
+				(size 2.67 2.67)
+			)
+			(justify left bottom)
+		)
+		(uuid "ce568bf1-8f5d-5fd1-960d-eab5fcaaf4d2")
+	)
+	(text "NF"
+		(exclude_from_sim no)
+		(at 33.02 149.86 0)
+		(effects
+			(font
+				(size 3.81 3.81)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+		(uuid "d754d325-a95d-5e59-858a-a74aafd2cf6f")
+	)
+	(text "Status do esquema elétrico"
+		(exclude_from_sim no)
+		(at 30.48 246.38 0)
+		(effects
+			(font
+				(size 2.67 2.67)
+			)
+			(justify left bottom)
+		)
+		(uuid "e8dc8f40-e0e6-5245-8027-7a648d069f36")
+	)
+	(text "Exemplo de sinal diferencial"
+		(exclude_from_sim no)
+		(at 33.02 182.88 0)
+		(effects
+			(font
+				(size 2.67 2.67)
+			)
+			(justify left bottom)
+		)
+		(uuid "ed9d1626-87d1-5930-a4ee-dbb671a89962")
+	)
+	(text "Exemplo de Net Class"
+		(exclude_from_sim no)
+		(at 33.02 160.02 0)
+		(effects
+			(font
+				(size 2.67 2.67)
+			)
+			(justify left bottom)
+		)
+		(uuid "edd28258-a633-5bda-821d-5cc2e49e6c0b")
+	)
+	(text "NOTAS DE TEMPLATE"
+		(exclude_from_sim no)
+		(at 30.48 109.22 0)
+		(effects
+			(font
+				(size 5 5)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+		(uuid "f87129bb-4767-584e-a621-0e907821d29d")
+	)
+	(text "RELEASED - Uma placa com esse esquema elétrico foi enviado para produção."
+		(exclude_from_sim no)
+		(at 30.48 279.4 0)
+		(effects
+			(font
+				(size 3.81 3.81)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+		(uuid "fa862d20-7982-5e0e-bed0-a93d4573f005")
+	)
+	(text_box "1) Project -> Project Options -> Parameters\n2) Criar companhia, Projetos and VersionRevision\n"
+		(exclude_from_sim no)
+		(at 33.02 116.84 0)
+		(size 114.3 20.32)
+		(margins 0.9525 0.9525 0.9525 0.9525)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 3.81 3.81)
+			)
+			(justify left top)
+		)
+		(uuid "55c08c5a-0520-5103-adeb-8f57c73dbe59")
+	)
+	(sheet
+		(at 116.84 43.18)
+		(size 40.64 40.64)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "1808130f-9920-556e-afd3-ef8cdcc60729")
+		(property "Sheetname" "03_CIRCUITO"
+			(at 116.84 42.48 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "03_CIRCUITO.kicad_sch"
+			(at 116.84 84.52 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "tiny_pendant"
+				(path "/f6e5327d-7d48-5ed3-ac3e-6026b2a80656"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 25.4 43.18)
+		(size 40.64 40.64)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "5f37da5d-aa4d-5568-9aa2-4a6b34a113b3")
+		(property "Sheetname" "01_CAPA"
+			(at 25.4 42.48 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "01_CAPA.kicad_sch"
+			(at 25.4 84.52 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "tiny_pendant"
+				(path "/f6e5327d-7d48-5ed3-ac3e-6026b2a80656"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 208.28 43.18)
+		(size 40.64 40.64)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "a1c66564-4c85-50e7-8178-d076631b3c88")
+		(property "Sheetname" "05_DOC_HISTORICO_REVISAO"
+			(at 208.28 42.48 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "05_DOC_HISTORICO_REVISAO.kicad_sch"
+			(at 208.28 84.52 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "tiny_pendant"
+				(path "/f6e5327d-7d48-5ed3-ac3e-6026b2a80656"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 162.56 43.18)
+		(size 40.64 40.64)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "b6c2c552-5164-53ee-bbb8-07bf3479a70d")
+		(property "Sheetname" "04_MECANICO"
+			(at 162.56 42.48 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "04_MECANICO.kicad_sch"
+			(at 162.56 84.52 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "tiny_pendant"
+				(path "/f6e5327d-7d48-5ed3-ac3e-6026b2a80656"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 71.12 43.18)
+		(size 40.64 40.64)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "c7fab56b-f6c5-510c-9ad8-bbc4531b4d47")
+		(property "Sheetname" "02_DIAGRAMA_DE_BLOCOS"
+			(at 71.12 42.48 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "02_DIAGRAMA_DE_BLOCOS.kicad_sch"
+			(at 71.12 84.52 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "tiny_pendant"
+				(path "/f6e5327d-7d48-5ed3-ac3e-6026b2a80656"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+)
