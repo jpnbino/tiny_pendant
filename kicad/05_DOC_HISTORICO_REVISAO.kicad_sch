@@ -1,0 +1,81 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "a1c66564-4c85-50e7-8178-d076631b3c88")
+	(paper "A3")
+	(title_block
+		(title "DOC HISTORICO REVISAO")
+		(date "2017-06-01")
+		(rev "V1I1")
+		(company "Ancient Egypt Ltda")
+		(comment 1 "Pyramides of Giza, 777")
+		(comment 2 "Cairo")
+		(comment 3 "www.ancientegypt.com.eg")
+	)
+	(lib_symbols)
+	(text "Release inicial."
+		(exclude_from_sim no)
+		(at 82.804 57.15 0)
+		(effects
+			(font
+				(size 3.81 3.81)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+		(uuid "34aa502b-3bfb-548a-a4c5-4803a7da8b0b")
+	)
+	(text "V1I1"
+		(exclude_from_sim no)
+		(at 27.94 57.15 0)
+		(effects
+			(font
+				(size 3.81 3.81)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+		(uuid "5003b4d1-7f98-5be0-b98e-e0cc9abff7c0")
+	)
+	(text "DOC HISTORICO REVISAO"
+		(exclude_from_sim no)
+		(at 195.58 40.64 0)
+		(effects
+			(font
+				(size 5 5)
+				(bold yes)
+			)
+			(justify bottom)
+		)
+		(uuid "bcca0fb8-2a91-5bbc-a033-ebc3e06e711c")
+	)
+	(text "01-06-2017"
+		(exclude_from_sim no)
+		(at 49.784 57.15 0)
+		(effects
+			(font
+				(size 3.81 3.81)
+			)
+			(justify left bottom)
+		)
+		(uuid "cbacb690-2394-5525-9bc3-6f9de87fe148")
+	)
+	(text "CLOCKS (CPU & PCIE)"
+		(exclude_from_sim no)
+		(at 50.8 271.78 0)
+		(effects
+			(font
+				(size 3.81 3.81)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+		(uuid "cd39dc8c-ba61-5635-884f-1e9f70a1b191")
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+)

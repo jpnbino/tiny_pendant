@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "tiny_pendant")(type "KiCad")(uri "${KIPRJMOD}/tiny_pendant.kicad_sym")(options "")(descr "Converted from altium/tiny_pendant.SchLib"))
+)
