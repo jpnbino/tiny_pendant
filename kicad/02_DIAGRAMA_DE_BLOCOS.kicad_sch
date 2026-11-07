@@ -1,0 +1,366 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "c7fab56b-f6c5-510c-9ad8-bbc4531b4d47")
+	(paper "A3")
+	(title_block
+		(title "DIAGRAMA DE BLOCOS")
+		(date "2017-06-01")
+		(rev "V1I1")
+		(company "Ancient Egypt Ltda")
+		(comment 1 "Pyramides of Giza, 777")
+		(comment 2 "Cairo")
+		(comment 3 "www.ancientegypt.com.eg")
+	)
+	(lib_symbols)
+	(polyline
+		(pts
+			(xy 248.666 140.462) (xy 251.714 137.414) (xy 249.936 137.414)
+		)
+		(stroke
+			(width 0.1524)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid "0ce5a0dc-2c10-58de-8600-30817ebaefc4")
+	)
+	(polyline
+		(pts
+			(xy 234.95 146.812) (xy 234.95 169.672) (xy 251.46 158.242) (xy 234.95 146.812)
+		)
+		(stroke
+			(width 0.1524)
+			(type default)
+		)
+		(fill
+			(type color)
+			(color 0 0 0 0)
+		)
+		(uuid "0d9c75a4-4dbb-57a2-998a-8cb826f6afdf")
+	)
+	(rectangle
+		(start 208.28 190.754)
+		(end 279.4 87.376)
+		(stroke
+			(width 0.1524)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid "490a0f88-0e80-5c2c-ad43-f47983cf80b0")
+	)
+	(polyline
+		(pts
+			(xy 242.57 94.996) (xy 245.618 91.948) (xy 243.84 91.948)
+		)
+		(stroke
+			(width 0.1524)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid "5b0eaf13-bf45-5044-83e2-1785ca061420")
+	)
+	(polyline
+		(pts
+			(xy 248.412 95.25) (xy 251.46 92.202) (xy 249.682 92.202)
+		)
+		(stroke
+			(width 0.1524)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid "7cfea159-9267-5c3b-a88e-adb148e9fc89")
+	)
+	(rectangle
+		(start 101.854 191.008)
+		(end 172.974 87.63)
+		(stroke
+			(width 0.1524)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid "bceecc76-8033-5de0-b228-fc3e87f1cdf9")
+	)
+	(polyline
+		(pts
+			(xy 242.824 140.208) (xy 245.872 137.16) (xy 244.094 137.16)
+		)
+		(stroke
+			(width 0.1524)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid "ea85354c-3ed2-5ef3-a9db-a0bcd0df255d")
+	)
+	(polyline
+		(pts
+			(xy 234.442 102.108) (xy 234.442 124.968) (xy 250.952 113.538) (xy 234.442 102.108)
+		)
+		(stroke
+			(width 0.1524)
+			(type default)
+		)
+		(fill
+			(type color)
+			(color 0 0 0 0)
+		)
+		(uuid "f0a4b7cc-e376-5cb6-b87f-2e9aef16ccf3")
+	)
+	(text "Leds"
+		(exclude_from_sim no)
+		(at 219.456 97.79 0)
+		(effects
+			(font
+				(size 5 5)
+				(bold yes)
+			)
+			(justify bottom)
+		)
+		(uuid "38c696c2-e999-57b9-80cf-f7dc4d029219")
+	)
+	(text "Battery"
+		(exclude_from_sim no)
+		(at 113.792 97.536 0)
+		(effects
+			(font
+				(size 5 5)
+				(bold yes)
+			)
+			(justify bottom)
+		)
+		(uuid "8855db4e-da91-57ba-ac79-f78c5a40c7df")
+	)
+	(text "${PROJETO}"
+		(exclude_from_sim no)
+		(at 195.58 38.1 0)
+		(effects
+			(font
+				(size 5 5)
+				(bold yes)
+			)
+			(justify bottom)
+		)
+		(uuid "a5927023-7e14-5833-ba12-ef150237bea4")
+	)
+	(text "CLOCKS (CPU & PCIE)"
+		(exclude_from_sim no)
+		(at 50.8 271.78 0)
+		(effects
+			(font
+				(size 3.81 3.81)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+		(uuid "e7f43452-ff7d-5fda-beb1-a9008711ed7f")
+	)
+	(text "(Diagrama de blocos)"
+		(exclude_from_sim no)
+		(at 195.58 50.8 0)
+		(effects
+			(font
+				(size 5 5)
+				(bold yes)
+			)
+			(justify bottom)
+		)
+		(uuid "ef7ad9da-f886-584f-bb0d-f780d7993a8b")
+	)
+	(polyline
+		(pts
+			(xy 252.476 113.538) (xy 271.526 113.538)
+		)
+		(stroke
+			(width 0.1524)
+			(type default)
+		)
+		(uuid "025c6982-3eb5-56a6-b3df-828e8782067f")
+	)
+	(polyline
+		(pts
+			(xy 245.872 137.16) (xy 245.872 138.938)
+		)
+		(stroke
+			(width 0.1524)
+			(type default)
+		)
+		(uuid "204f3166-6180-58a4-b54b-ea5e9c5a2ad3")
+	)
+	(polyline
+		(pts
+			(xy 252.476 158.242) (xy 271.526 158.242)
+		)
+		(stroke
+			(width 0.1524)
+			(type default)
+		)
+		(uuid "3f11ada0-c408-5339-beaa-3b74a7702bad")
+	)
+	(polyline
+		(pts
+			(xy 215.9 158.496) (xy 234.95 158.496)
+		)
+		(stroke
+			(width 0.1524)
+			(type default)
+		)
+		(uuid "3fceb012-336f-5ba6-a45b-feaf8f9cdf81")
+	)
+	(polyline
+		(pts
+			(xy 115.316 129.794) (xy 121.92 129.794)
+		)
+		(stroke
+			(width 0.1524)
+			(type default)
+		)
+		(uuid "471a9a68-1130-58a3-b34b-6f0d775bd932")
+	)
+	(polyline
+		(pts
+			(xy 251.46 92.202) (xy 251.46 93.98)
+		)
+		(stroke
+			(width 0.1524)
+			(type default)
+		)
+		(uuid "68b2d77e-1b36-5c5f-95c6-11b2c05f0646")
+	)
+	(polyline
+		(pts
+			(xy 245.618 91.948) (xy 245.618 93.726)
+		)
+		(stroke
+			(width 0.1524)
+			(type default)
+		)
+		(uuid "7918ab25-b10e-5a36-a40c-ac45d853d738")
+	)
+	(polyline
+		(pts
+			(xy 252.476 144.272) (xy 252.476 169.672)
+		)
+		(stroke
+			(width 0.1524)
+			(type default)
+		)
+		(uuid "87b2505e-6361-5d65-b85e-78174435edef")
+	)
+	(polyline
+		(pts
+			(xy 118.618 133.096) (xy 118.618 126.492)
+		)
+		(stroke
+			(width 0.1524)
+			(type default)
+		)
+		(uuid "8deaaa8c-848e-5e05-a359-922a10bf91b0")
+	)
+	(polyline
+		(pts
+			(xy 251.714 137.414) (xy 251.714 139.192)
+		)
+		(stroke
+			(width 0.1524)
+			(type default)
+		)
+		(uuid "a03b1317-e947-5745-9087-5b5cfd5db9ff")
+	)
+	(polyline
+		(pts
+			(xy 251.968 99.568) (xy 251.968 124.968)
+		)
+		(stroke
+			(width 0.1524)
+			(type default)
+		)
+		(uuid "b1b7e826-da8b-5a7d-8a65-208eedb21f0c")
+	)
+	(polyline
+		(pts
+			(xy 126.746 137.668) (xy 148.59 137.668)
+		)
+		(stroke
+			(width 0.1524)
+			(type default)
+		)
+		(uuid "b2c59596-f119-5287-8942-791a01ffc3b7")
+	)
+	(polyline
+		(pts
+			(xy 115.824 153.924) (xy 122.428 153.924)
+		)
+		(stroke
+			(width 0.1524)
+			(type default)
+		)
+		(uuid "b3e8f574-268c-543b-aac9-2bc7ded98f46")
+	)
+	(polyline
+		(pts
+			(xy 215.392 113.538) (xy 234.442 113.538)
+		)
+		(stroke
+			(width 0.1524)
+			(type default)
+		)
+		(uuid "ba86b865-622d-56b1-a37a-fe74c88f0a2a")
+	)
+	(polyline
+		(pts
+			(xy 137.414 165.862) (xy 137.414 142.494)
+		)
+		(stroke
+			(width 0.1524)
+			(type default)
+		)
+		(uuid "bdce81c7-8100-52c7-b7ef-9bc22fb924f4")
+	)
+	(polyline
+		(pts
+			(xy 172.974 140.97) (xy 206.502 140.97)
+		)
+		(stroke
+			(width 0.1524)
+			(type default)
+		)
+		(uuid "d85a896e-89c0-5b2a-84a5-3a63182bf58b")
+	)
+	(polyline
+		(pts
+			(xy 134.112 141.986) (xy 140.462 141.986)
+		)
+		(stroke
+			(width 0.1524)
+			(type default)
+		)
+		(uuid "fb3a6558-33be-5a8a-82a5-dec7ff6799d6")
+	)
+	(polyline
+		(pts
+			(xy 137.414 136.906) (xy 137.414 117.856)
+		)
+		(stroke
+			(width 0.1524)
+			(type default)
+		)
+		(uuid "fdd3df83-409c-5e10-8798-949ac5b2334b")
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+)

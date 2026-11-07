@@ -1,0 +1,6 @@
+"Reference","Value","Footprint","QUANTITY"
+"FID1","FIDUCIAL","tiny_pendant:FIDUCIAL - 1.27mm","1"
+"J1,J2","1.27mm","tiny_pendant:SOLDER PAD - 1.27mm","2"
+"LED1","RED","tiny_pendant:LED-0603-RED","1"
+"PCB1","Tiny_Pendant_V1I1","","1"
+"R1","1k","tiny_pendant:RESC1608X06N","1"

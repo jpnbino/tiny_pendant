@@ -1,0 +1,30 @@
+** Drc report for tiny_pendant.kicad_pcb **
+** Created on 2026-11-04T20:29:40 **
+** Report includes: Errors, Warnings, Exclusions **
+
+** Found 4 DRC violations **
+[items_not_allowed]: Items not allowed (keepout area)
+    Rule: keepout area; error
+    @(148.5011 mm, 96.0036 mm): NPTH pad of H1
+[lib_footprint_mismatch]: Footprint 'SOLDER PAD - 1.27mm' does not match copy in library 'tiny_pendant'
+    Local override; warning
+    @(150.0011 mm, 114.5036 mm): Footprint J1
+[lib_footprint_mismatch]: Footprint 'SOLDER PAD - 1.27mm' does not match copy in library 'tiny_pendant'
+    Local override; warning
+    @(146.5011 mm, 114.5036 mm): Footprint J2
+[lib_footprint_mismatch]: Footprint 'FIDUCIAL - 1.27mm' does not match copy in library 'tiny_pendant'
+    Local override; warning
+    @(141.5011 mm, 105.5036 mm): Footprint FID1
+
+** Found 0 unconnected pads **
+
+** Found 0 Footprint errors **
+
+** Ignored checks **
+    - Footprint has no courtyard defined
+    - Track endpoint not centered on via
+    - Tuning profile track geometries
+    - Footprint doesn't match symbol's footprint filters
+    - Footprint component type doesn't match footprint pads
+
+** End of Report **

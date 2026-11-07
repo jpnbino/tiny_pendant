@@ -1,0 +1,86 @@
+(footprint "TP-R60"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(descr "1.27mm")
+	(property "Reference" "REF**"
+		(at 0 -1.6271 0)
+		(layer "F.SilkS")
+		(uuid "002618e3-066a-4897-ad97-11ca0077d64b")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "TP-R60"
+		(at 0 1.6271 0)
+		(layer "F.Fab")
+		(uuid "53555703-0793-4823-9f72-73ac238e9055")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "fcf89f6a-19fa-4fe9-b164-e1b2b12d3aa7")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "f75a59e2-83ee-4510-becb-db70f86e3462")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_circle
+		(center 0 0)
+		(end 0 -0.8636)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "5d932b4a-7f84-49b0-aa16-78b55b45c832")
+	)
+	(fp_circle
+		(center 0 0)
+		(end 0 -0.635)
+		(stroke
+			(width 0.0762)
+			(type solid)
+		)
+		(fill no)
+		(layer "User.13")
+		(uuid "b6bd5349-2709-4ca9-97e3-ead03f620a8d")
+	)
+	(pad "1" smd circle
+		(at 0 0)
+		(size 1.27 1.27)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(solder_paste_margin -1.27)
+		(thermal_bridge_angle 90)
+		(uuid "22ed96c2-ac96-45e3-b668-b155a1f7d092")
+	)
+	(embedded_fonts no)
+)
